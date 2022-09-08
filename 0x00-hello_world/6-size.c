@@ -2,7 +2,8 @@
 
 /**
  * main - print the size of the various types
- * Description: prints the size of the various types on the computer it is compiled and run on
+ * Description: prints the size of the various types on the computer
+ * it is compiled and run on
  * Return: Always 0 (success)
  */
 int main(void)
