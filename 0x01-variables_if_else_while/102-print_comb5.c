@@ -11,7 +11,7 @@ int main(void)
 
 	while (a  < 99)
 	{
-		b == a;
+		b = a;
 		while (b <= 99)
 		{
 			if (b != a)
