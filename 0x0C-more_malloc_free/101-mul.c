@@ -19,6 +19,7 @@ int find_len(char *str)
 
 	while (*str++)
 		len++;
+
 	return (len);
 }
 
@@ -47,6 +48,8 @@ char *create_xarray(int size)
 
 	return (array);
 }
+
+
 /**
  * iterate_zeroes - Iterates through a string of numbers containing
  *                  leading zeroes until it hits a non-zero number.
